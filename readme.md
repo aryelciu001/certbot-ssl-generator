@@ -1,4 +1,4 @@
-# How to use this for AWS Linux Machine
+# Use certbot for AWS
 
 0. Install `docker` and `docker-compose`
 1. run `sh run.sh`
